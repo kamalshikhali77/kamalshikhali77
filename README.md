@@ -5,6 +5,6 @@
 🔥 I am kamal esam shikhali  
 💻 I study Computer Engineering at [Palestine Technical University - Kadoorie] 
 💻 I code in **Java**, **C++**, **HTML**, **CSS**, and **JavaScript**
-🌱 I’m currently learning Front-end Web Development  
+🌱 I’m currently learning Front-end and Back-end Web Development  
 Passion = Everything
 
