@@ -4,7 +4,7 @@
 
 💻 Computer Engineering student at Palestine Technical University – Kadoorie
 
-🌱 Currently learning Spring Boot and Backend Development
+🌱 Currently learning Spring Boot-Grails and Backend Development
 
 🧪 Hands-on experience with Manual QA Testing
 
